@@ -1,3 +1,3 @@
 <p align="center">
-<img src="./header.gif" width="700"/>
+<img src="./Frame.png" width="1200" height="500" />
 </p>
