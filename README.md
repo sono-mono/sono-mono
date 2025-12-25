@@ -1,3 +1,3 @@
-<p align="centre"
-<img src="header.gif" width="500">
+<p align="center">
+<img src="./header.gif" width="500"/>
 </p>
